@@ -10,6 +10,7 @@ https://gather.town/invite?token=pgp4BlXn
 ## CS 참고 사이트
 1. https://gyoogle.dev/blog/
 2. https://github.com/WooVictory/Ready-For-Tech-Interview
+3. https://github.com/gyoogle/tech-interview-for-developer
 
 
 ## 발표 준비 내용 
