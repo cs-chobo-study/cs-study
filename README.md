@@ -14,7 +14,9 @@ https://gather.town/invite?token=pgp4BlXn
 
 
 ## 발표 준비 내용 
-10월 13일(수) 10시
+10월 16일(토) 10시
 - 운영체제란
 - 컴퓨터 시스템의 동작 원리
 - Process vs Thread
+- OSI 7 Layer
+- TCP/UDP
