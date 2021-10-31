@@ -14,9 +14,11 @@ https://gather.town/invite?token=pgp4BlXn
 
 
 ## 발표 준비 내용 
-10월 16일(토) 10시
-- 운영체제란
-- 컴퓨터 시스템의 동작 원리
-- Process vs Thread
-- OSI 7 Layer
-- TCP/UDP
+11월 3일(수) 10시
+### OS
+- CPU 스케줄러
+- 프로세스동기화
+
+### Network
+- HTTP 와 HTTPS 의 차이점
+- 공개키 암호, 대칭키 암호
