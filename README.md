@@ -11,7 +11,8 @@ https://gather.town/invite?token=pgp4BlXn
 1. https://gyoogle.dev/blog/
 2. https://github.com/WooVictory/Ready-For-Tech-Interview
 3. https://github.com/gyoogle/tech-interview-for-developer
-
+4. https://github.com/WeareSoft/tech-interview 
+5. https://github.com/JaeYeopHan/Interview_Question_for_Beginner 
 
 ## 발표 준비 내용 
 11월 6일(토) 9시
